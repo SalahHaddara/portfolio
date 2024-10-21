@@ -27,6 +27,16 @@ a {
     padding: 10px;
     background-color: darkolivegreen;
     color: white;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+
+.button-div {
+    text-align: right;
+}
+
+.button:hover {
+    background-color: green;
 }
 
 .footer {
